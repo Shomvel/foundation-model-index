@@ -1,0 +1,79 @@
+2023-05-05 11:50:33,513 - INFO - Start filtering and converting
+2023-05-05 11:51:11,915 - INFO - Finish filtering and converting
+2023-05-05 11:53:41,108 - INFO - Start adding is Chinese column
+2023-05-05 11:53:42,069 - WARNING - Could not get author info for DOI: nan, status code: 404
+2023-05-05 11:53:43,277 - WARNING - Could not get author info for DOI: nan, status code: 404
+2023-05-05 11:53:44,564 - WARNING - Could not get author info for DOI: nan, status code: 404
+2023-05-05 11:53:45,705 - WARNING - Could not get author info for DOI: nan, status code: 404
+2023-05-05 11:53:47,116 - WARNING - Could not get author info for DOI: nan, status code: 404
+2023-05-05 11:53:48,303 - WARNING - Could not get author info for DOI: nan, status code: 404
+2023-05-05 11:53:49,572 - WARNING - Could not get author info for DOI: nan, status code: 404
+2023-05-05 11:53:50,750 - WARNING - Could not get author info for DOI: nan, status code: 404
+2023-05-05 11:53:52,025 - WARNING - Could not get author info for DOI: nan, status code: 404
+2023-05-05 11:53:53,231 - WARNING - Could not get author info for DOI: nan, status code: 404
+2023-05-05 11:53:54,439 - WARNING - Could not get author info for DOI: nan, status code: 404
+2023-05-05 11:53:55,714 - WARNING - Could not get author info for DOI: nan, status code: 404
+2023-05-05 11:53:56,916 - WARNING - Could not get author info for DOI: nan, status code: 404
+2023-05-05 11:53:58,156 - WARNING - Could not get author info for DOI: nan, status code: 404
+2023-05-05 11:53:59,375 - WARNING - Could not get author info for DOI: nan, status code: 404
+2023-05-05 11:56:09,389 - INFO - Start filtering and converting
+2023-05-05 11:56:24,119 - INFO - Start filtering and converting
+2023-05-05 11:58:28,867 - INFO - Start filtering and converting
+2023-05-05 11:59:11,870 - INFO - Finish filtering and converting
+2023-05-05 12:59:00,393 - INFO - Start filtering and converting
+2023-05-05 12:59:42,516 - INFO - Finish filtering and converting
+2023-05-05 12:59:42,516 - INFO - Start adding is Chinese column
+2023-05-05 13:00:08,845 - WARNING - Could not get author info for DOI: 10.1145/3588432.3591566, status code: 404
+2023-05-05 13:00:27,114 - WARNING - Could not get author info for DOI: 10.1007/978-3-031-25082-8\_8, status code: 404
+2023-05-05 13:00:57,602 - WARNING - Could not get author info for DOI: 10.1145/3564121.3565236, status code: 404
+2023-05-05 13:01:24,999 - WARNING - Could not get author info for DOI: 10.1145/3591300, status code: 404
+2023-05-05 13:01:31,009 - WARNING - Could not get author info for DOI: 10.1145/3575813.3576871, status code: 404
+2023-05-05 13:01:58,226 - WARNING - Could not get author info for DOI: 10.14658/pupj-drna-2022-4-5, status code: 404
+2023-05-05 13:02:16,845 - WARNING - Could not get author info for DOI: 10.25147/ijcsr.2017.001.1.118, status code: 404
+2023-05-05 13:02:23,083 - WARNING - Could not get author info for DOI: 10.1145/3571600.3571643, status code: 404
+2023-05-05 13:04:05,388 - WARNING - Could not get author info for DOI: 10.1007/s11432-022-3718-5, status code: 404
+2023-05-05 13:04:30,533 - WARNING - Could not get author info for DOI: 10.1145/3555776.3578601, status code: 404
+2023-05-05 13:04:42,482 - WARNING - Could not get author info for DOI: 10.1145/3571600.3571626, status code: 404
+2023-05-05 13:05:27,040 - WARNING - Could not get author info for DOI: 10.5281/zenodo.7490464, status code: 404
+2023-05-05 13:06:44,141 - WARNING - Could not get author info for DOI: 10.5281/zenodo.7513695, status code: 404
+2023-05-05 13:06:56,284 - WARNING - Could not get author info for DOI: 10.1111/cgf.14776, status code: 404
+2023-05-05 13:07:02,258 - WARNING - Could not get author info for DOI: 10.3850/978-981-18-5183-4_S05-06-449-cd, status code: 404
+2023-05-05 13:07:50,725 - WARNING - Could not get author info for DOI: 10.1145/3564121.3564126, status code: 404
+2023-05-05 13:08:37,969 - WARNING - Could not get author info for DOI: 10.1109/SP46215.2023.00059, status code: 404
+2023-05-05 13:09:23,526 - WARNING - Could not get author info for DOI: 10.4995/WDSA-CCWI2022.2022.14699, status code: 404
+2023-05-05 13:09:30,866 - WARNING - Could not get author info for DOI: 10.13140/RG.2.2.35825.15205, status code: 404
+2023-05-05 13:09:42,052 - WARNING - Could not get author info for DOI: 10.1145/3583131.3590352, status code: 404
+2023-05-05 13:10:01,635 - WARNING - Could not get author info for DOI: 10.1109/TNET.2021.3138536., status code: 404
+2023-05-05 13:10:04,159 - WARNING - Could not get author info for DOI: 10.26348/znwwsi.27.57, status code: 404
+2023-05-05 13:10:09,101 - WARNING - Could not get author info for DOI: 10.1145/3582768.3582789, status code: 404
+2023-05-05 13:11:40,848 - WARNING - Could not get author info for DOI: 10.5281/zenodo.7498107, status code: 404
+2023-05-05 13:12:03,360 - WARNING - Could not get author info for DOI: 10.48550/arXiv.2302.07260, status code: 404
+2023-05-05 13:12:10,712 - WARNING - Could not get author info for DOI: 10.13052/jmltapissn.2023.002, status code: 404
+2023-05-05 13:12:58,029 - WARNING - Could not get author info for DOI: 10.1145/3555776.3577603, status code: 404
+2023-05-05 13:14:07,545 - WARNING - Could not get author info for DOI: 10.13140/RG.2.2.29800.75528, status code: 404
+2023-05-05 13:15:17,141 - WARNING - Could not get author info for DOI: 10.13140/RG.2.2.25983.28324, status code: 404
+2023-05-05 13:15:35,273 - WARNING - Could not get author info for DOI: 10.1007/978-3-031-13321-3\_14, status code: 404
+2023-05-05 13:15:54,731 - WARNING - Could not get author info for DOI: 10.1145/3555776.3577656, status code: 404
+2023-05-05 13:16:21,018 - WARNING - Could not get author info for DOI: 10.1109/JBHI.2020.2978252., status code: 404
+2023-05-05 13:16:22,180 - WARNING - Could not get author info for DOI: 10.1109/JBHI.2019.2924808., status code: 404
+2023-05-05 13:16:31,249 - WARNING - Could not get author info for DOI: 10.48550/arXiv.2303.08431, status code: 404
+2023-05-05 13:16:32,656 - WARNING - Could not get author info for DOI: 10.1007/s41095-023-0333-9, status code: 404
+2023-05-05 13:17:06,985 - WARNING - Could not get author info for DOI: 10.1145/3571600.3571634, status code: 404
+2023-05-05 13:17:39,712 - WARNING - Could not get author info for DOI: 10.13140/RG.2.2.22896.53768, status code: 404
+2023-05-05 13:18:08,865 - WARNING - Could not get author info for DOI: 10.17863/CAM.93643, status code: 404
+2023-05-05 13:18:35,513 - WARNING - Could not get author info for DOI: 10.5281/zenodo.6497620, status code: 404
+2023-05-05 13:18:57,838 - WARNING - Could not get author info for DOI: 10.1145/3583133.3590531, status code: 404
+2023-05-05 13:23:50,340 - INFO - Start filtering and converting
+2023-05-05 13:24:32,097 - INFO - Finish filtering and converting
+2023-05-05 13:24:32,098 - INFO - Start adding is Chinese column
+2023-05-05 13:25:40,784 - WARNING - Could not get author info for DOI: 10.1007/s11432-022-3718-5, status code: 404
+2023-05-05 13:28:51,666 - WARNING - Could not get author info for DOI: 10.1007/s41095-023-0333-9, status code: 404
+2023-05-05 13:30:06,442 - WARNING - Could not get author info for DOI: 10.1007/s11390-022-1632-9, status code: 404
+2023-05-05 13:30:08,281 - WARNING - Could not get author info for DOI: 10.1145/3588964, status code: 404
+2023-05-05 13:30:16,742 - WARNING - Could not get author info for DOI: 10.1145/3539618.3591752, status code: 404
+2023-05-05 13:30:21,662 - WARNING - Could not get author info for DOI: 10.1145/3539618.3591976, status code: 404
+2023-05-05 13:30:28,907 - WARNING - Could not get author info for DOI: 10.1145/3539618.3591816, status code: 404
+2023-05-05 13:30:51,833 - WARNING - Could not get author info for DOI: 10.1145/3539618.3591758, status code: 404
+2023-05-05 13:31:01,428 - WARNING - Could not get author info for DOI: 10.1145/3539618.3591828, status code: 404
+2023-05-05 13:31:02,760 - WARNING - Could not get author info for DOI: 10.1145/3539618.3591712, status code: 404
+2023-05-05 13:31:10,950 - INFO - Finish adding is Chinese column
